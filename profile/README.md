@@ -1,5 +1,5 @@
 <!-- Logo Placeholder -->
-<img src="./assets/images/logo.png" alt="COSS Logo" width="1200">
+<img src="./assets/images/logo.png" alt="COSS Logo" width="200">
 
 </div>
 
