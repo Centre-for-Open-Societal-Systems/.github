@@ -1,6 +1,7 @@
 <!-- Logo Placeholder -->
+<div align="center">
 <img src="./assets/images/logo.png" alt="COSS Logo" width="200">
-
+</div>
 </div>
 
 ---
